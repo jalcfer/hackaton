@@ -1,0 +1,3 @@
+export const FETCH_TODOS = 'FETCH_TODOS' 
+export const SET_DEMANDANTE = 'SET_DEMANDANTE'
+export const SET_OFERTANTE = 'SET_OFERTANTE'
